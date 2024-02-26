@@ -9,7 +9,7 @@ To deploy the JavaStyleEditor on your system, follow these steps:
 1. **Clone the Repository:**
    - Clone the GitHub repository to your local machine using the following command:
      ```bash
-     https://github.com/Bhavdeep0106/Text-Editor.git
+     https://github.com/Bhavdeep0106/JavaStyleEditor
      ```
 
 2. **Compile and Run:**

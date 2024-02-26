@@ -1,10 +1,10 @@
-## Text-Editor
+## JavaStyleEditor
 
-Text Editor is a simple Java-based text editor with a graphical user interface built using Swing. This text editor allows users to customize font styles, sizes, and colors while providing standard text editing functionalities. It also supports opening, saving, and editing text files.
+JavaStyleEditor is a simple Java-based text editor with a graphical user interface built using Swing. This text editor allows users to customize font styles, sizes, and colors while providing standard text editing functionalities. It also supports opening, saving, and editing text files.
 
 ## Deployment
 
-To deploy the Text-Editor on your system, follow these steps:
+To deploy the JavaStyleEditor on your system, follow these steps:
 
 1. **Clone the Repository:**
    - Clone the GitHub repository to your local machine using the following command:
